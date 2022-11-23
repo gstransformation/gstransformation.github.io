@@ -14,6 +14,7 @@ body {
 }
 
 /* Navigation */
+
 .navigation-link {
   border: 2px solid transparent;
 }
@@ -57,10 +58,10 @@ body {
   border-bottom: 8px solid #f5ba09;
 }
 
-/* Social Media Section */
-#social-media {
+/* Contact Section */
+/* #contact {
   background: #313552;
-}
+} */
 
 /* Add color to Social Media Links */
 .media_link {
@@ -69,4 +70,5 @@ body {
   margin-left: 1rem;
   border: 2px solid #f5ba09;
   border-radius: 0.5rem;
+  white-space: nowrap;
 }
