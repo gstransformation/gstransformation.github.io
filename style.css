@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  background: #1f2235;
+  background: #B1D7B4;
   font-family: "Baloo Tamma 2", cursive;
 }
 
@@ -21,7 +21,7 @@ body {
 
 .navigation-link:hover {
   text-decoration: none;
-  border-bottom: 2px solid #f5ba09;
+  border-bottom: 2px solid #C58940;
   transition: 0.5s ease;
 }
 
@@ -50,25 +50,31 @@ body {
 
 /* About Section */
 .about {
-  background: #313552;
+  background: #9BA17B;
   border-radius: 0.5rem;
 }
 
 .card {
-  border-bottom: 8px solid #f5ba09;
+  border-bottom: 8px solid #C58940;
 }
 
 /* Contact Section */
 /* #contact {
-  background: #313552;
+  background: #CFB997;
 } */
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
 
 /* Add color to Social Media Links */
 .media_link {
   padding: 1rem;
   max-width: 15rem;
   margin-left: 1rem;
-  border: 2px solid #f5ba09;
+  border: 2px solid #C58940;
   border-radius: 0.5rem;
   white-space: nowrap;
 }
