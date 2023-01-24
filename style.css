@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  background: #FCF8E8;
+  background: #f7f4e4;
   font-family: "Baloo Tamma 2", cursive;
 }
 
@@ -50,7 +50,7 @@ body {
 
 /* About Section */
 .about {
-  background: #94B49F;
+  background: #fffcf4;
   border-radius: 0.5rem;
 }
 
